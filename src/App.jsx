@@ -5,7 +5,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <p className="top">Houston ... we had a problem!</p>
+      <p className="top">Houston?, Houston?... Oops, we had a problem!</p>
       <main className="main-cont">
         <img src={logo} className="logo" alt="logo" width="120" />
       </main>
